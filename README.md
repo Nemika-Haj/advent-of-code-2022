@@ -6,3 +6,4 @@ A [totally](https://github.com/gganon/advent-of-code-2022) [original](https://gi
 - [Day 3](https://github.com/Nemika-Haj/advent-of-code-2022/blob/main/Day_3/src/main/kotlin/Main.kt)
 - [Day 4](https://github.com/Nemika-Haj/advent-of-code-2022/blob/main/Day_4/main.go)
 - [Day 5](https://github.com/Nemika-Haj/advent-of-code-2022/blob/main/Day_5/main.ts)
+- [Day 10](https://github.com/Nemika-Haj/advent-of-code-2022/blob/main/Day_10/main.py)
